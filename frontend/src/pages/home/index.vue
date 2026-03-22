@@ -7,7 +7,7 @@
       <div class="welcome">
         <el-icon :size="60" color="#409eff"><HomeFilled /></el-icon>
         <h2>欢迎回来，{{ userStore.username || '管理员' }}！</h2>
-        <p>这是一个基于 Vite + Vue3 + TypeScript + Element Plus 构建的后台管理系统模板</p>
+        <p>这是一个JAVA + VUE3.0 全栈开发的后台管理系统模板</p>
       </div>
     </el-card>
   </div>
